@@ -1,4 +1,4 @@
-# Portfolio-# Hi there, I'm Sugitha! 👋
+# Portfolio-# Hi there, I'm Selvanayaki! 👋
 
 I'm a passionate developer with a love for learning and exploring new technologies. Here are a few things about me:
 
@@ -18,8 +18,8 @@ I'm a passionate developer with a love for learning and exploring new technologi
 - Version control with Git and GitHub.
 
 ## 📫 How to Reach Me
-- Email: [sugitha@example.com](mailto:sugitha@example.com)
-- LinkedIn: [sugitha's LinkedIn](https://www.linkedin.com/in/sugitha)
+- Email: [selvanayaki@example.com](mailto:selvanayaki@example.com)
+- LinkedIn: [selvanayaki's LinkedIn](https://www.linkedin.com/in/selvanayaki)
 
 ## ⚡ Fun Fact
 - I love painting and often spend my weekends creating new art pieces.
