@@ -1,4 +1,4 @@
-# Portfolio-# Hi there, I'm Tarunika! 👋
+# Portfolio-# Hi there, I'm SwathiPreetha Rajalingam! 👋
 
 I'm a passionate developer with a love for learning and exploring new technologies. Here are a few things about me:
 
@@ -18,8 +18,8 @@ I'm a passionate developer with a love for learning and exploring new technologi
 - Version control with Git and GitHub.
 
 ## 📫 How to Reach Me
-- Email: [tarunika@example.com](mailto:tarunika@example.com)
-- LinkedIn: [Tarunika's LinkedIn](https://www.linkedin.com/in/tarunika)
+- Email: [preetha@example.com](mailto:preetha@example.com)
+- LinkedIn: [preetha's LinkedIn](https://www.linkedin.com/in/preetha)
 
 ## ⚡ Fun Fact
 - I love painting and often spend my weekends creating new art pieces.
